@@ -1,0 +1,26 @@
+/*.link{*/
+/*    text-decoration: none;*/
+/*}*/
+a {
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+    text-transform: none;
+    color:blue;
+}
+
+a:hover {
+    text-decoration: none;
+ color: rgb( 50, 220, 179 )
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: purple;
+}
+
+.active{
+    color: goldenrod;
+}
